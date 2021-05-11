@@ -1,0 +1,68 @@
+body{
+    padding: 100px;
+}
+.login-form{
+    margin-top: 50px;
+    padding: 20px;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 10px;
+}
+#transition-Area{
+    display: none;
+    margin-top: 100px;
+}
+.fa-frown{
+    color: yellow;
+    margin: 0;
+    border: none;
+}
+.btn-1{
+    margin-left: 25%;
+}
+.btn-2{
+    margin-left: 25%;
+}
+.fa-heart{
+    color: red;
+    border: none;
+}
+.first-heading{
+    text-align: center;
+    font-weight: 800;
+    font-size: 55px;
+}
+.btn-ico{
+    margin-top: 100px;
+    padding: 5px;
+}
+@media (max-width : 668px) {
+    .btn-1{
+        margin-bottom: 30px;
+    }
+}
+@media (max-width : 480px) {
+    .btn-1{
+        margin-bottom: 20px;
+    }
+}
+p{
+    text-align: center;
+    margin-top: 200px;
+}
+#no{
+    display: none;
+    text-align: center;
+    margin-top: 50px;
+}
+.happy{
+    color: yellow;
+}
+.happy-1{
+    color: red;
+}
+#yes{
+    display: none;
+}
+.crazy{
+    color: rgb(255, 166, 0);
+}
